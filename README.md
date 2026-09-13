@@ -43,3 +43,4 @@ pytest tests/test_login.py
 pytest tests/test_cart.py
 pytest tests/test_checkout.py
 ```
+Git practice
