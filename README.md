@@ -44,3 +44,4 @@ pytest tests/test_cart.py
 pytest tests/test_checkout.py
 ```
 Git practice
+Testing Git branch
